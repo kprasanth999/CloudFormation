@@ -20,7 +20,7 @@
 <html>
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>K Prasanth (A sample app for CodeDeploy)</title>
+    <title>K P (A sample app for CodeDeploy)</title>
     <meta name="viewport" content="initial-scale=1.0">
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'>
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'>
