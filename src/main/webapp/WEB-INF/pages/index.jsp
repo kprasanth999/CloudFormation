@@ -20,7 +20,7 @@
 <html>
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Beware Of Dogs! (A sample app for CodeDeploy)</title>
+    <title>K Prasanth (A sample app for CodeDeploy)</title>
     <meta name="viewport" content="initial-scale=1.0">
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'>
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'>
@@ -82,7 +82,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Suits for Dogs</h1>
+      <h1>DoGS DoGS</h1>
       <p><i>Whatever you are, be a good one</i></p>
     </div>
     <div class="page-header">
